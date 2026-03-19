@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Dog, Heart, Calendar, Shield, MapPin, Instagram, Facebook, Mail, Camera, Users, Award } from 'lucide-react';
 
 function App() {
